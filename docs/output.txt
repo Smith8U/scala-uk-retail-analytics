@@ -1,0 +1,45 @@
+Loaded 541909 transactions from src/main/resources/data.csv
+
+=== Q1: Top 5 countries by total revenue ===
+ 1. United Kingdom     9,025,222.08 GBP
+ 2. Netherlands          285,446.34 GBP
+ 3. EIRE                 283,453.96 GBP
+ 4. Germany              228,867.14 GBP
+ 5. France               209,715.11 GBP
+
+=== Q2: Total revenue per invoice month ===
+2010-12      823,746.14 GBP
+2011-01      691,364.56 GBP
+2011-02      523,631.89 GBP
+2011-03      717,639.36 GBP
+2011-04      537,808.62 GBP
+2011-05      770,536.02 GBP
+2011-06      761,739.90 GBP
+2011-07      719,221.19 GBP
+2011-08      759,138.38 GBP
+2011-09    1,058,590.17 GBP
+2011-10    1,154,979.30 GBP
+2011-11    1,509,496.33 GBP
+2011-12      638,792.68 GBP
+
+=== Q3: Customers with >= 20 orders AND avg order value >= 750 GBP ===
+customer 14646   orders= 73  total= 280,206.02 GBP  avg/order=  3,838.44 GBP
+customer 18102   orders= 60  total= 259,657.30 GBP  avg/order=  4,327.62 GBP
+customer 17450   orders= 46  total= 194,550.79 GBP  avg/order=  4,229.37 GBP
+customer 12415   orders= 21  total= 124,914.53 GBP  avg/order=  5,948.31 GBP
+customer 14156   orders= 55  total= 117,379.63 GBP  avg/order=  2,134.18 GBP
+customer 17511   orders= 31  total=  91,062.38 GBP  avg/order=  2,937.50 GBP
+customer 16029   orders= 63  total=  81,024.84 GBP  avg/order=  1,286.11 GBP
+customer 16684   orders= 28  total=  66,653.56 GBP  avg/order=  2,380.48 GBP
+customer 13694   orders= 50  total=  65,039.62 GBP  avg/order=  1,300.79 GBP
+customer 17949   orders= 45  total=  58,510.48 GBP  avg/order=  1,300.23 GBP
+customer 15769   orders= 26  total=  56,252.72 GBP  avg/order=  2,163.57 GBP
+customer 15061   orders= 48  total=  54,534.14 GBP  avg/order=  1,136.13 GBP
+customer 14298   orders= 44  total=  51,527.30 GBP  avg/order=  1,171.07 GBP
+customer 16013   orders= 47  total=  37,130.60 GBP  avg/order=    790.01 GBP
+customer 17389   orders= 34  total=  31,833.68 GBP  avg/order=    936.28 GBP
+customer 13098   orders= 28  total=  28,882.44 GBP  avg/order=  1,031.52 GBP
+customer 17857   orders= 23  total=  26,879.04 GBP  avg/order=  1,168.65 GBP
+customer 16333   orders= 22  total=  26,626.80 GBP  avg/order=  1,210.31 GBP
+customer 13777   orders= 33  total=  25,977.16 GBP  avg/order=    787.19 GBP
+customer 13881   orders= 20  total=  17,159.52 GBP  avg/order=    857.98 GBP
