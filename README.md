@@ -48,20 +48,6 @@ Loaded 541909 transactions from src/main/resources/data.csv
  5. France               209,715.11 GBP
 ```
 
-## Demo link
-
-This is a command-line project and does not currently have a deployed web demo.
-
 ## Dataset and attribution
 
-The project uses the UK Online Retail dataset, originally sourced from [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data). Before making this repository public, verify the dataset's current redistribution terms and retain the required attribution.
-
-## License
-
-No open-source license is included. This project originated as university coursework, so confirm the university/course rules and dataset terms before adding a license.
-
-## Repository topics and description
-
-Suggested GitHub description: `Scala 3 analytics pipeline for UK Online Retail revenue, monthly trends, and loyal high-spending customers.`
-
-Suggested topics: `scala`, `scala3`, `sbt`, `data-analysis`, `data-pipeline`, `ecommerce`, `retail-analytics`, `functional-programming`, `collections`, `csv`.
+The project uses the UK Online Retail dataset, originally sourced from [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
